@@ -19,24 +19,16 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p>
-        I completed my schooling at{" "}
-        <span className="font-medium">Kendriya Vidyalaya No. 1.</span> After my
-        schooling, I pursued a{" "}
-        <span className="font-medium">Bachelor of Computer Applications</span>{" "}
-        degree from
-        <span className="font-medium">
-          {" "}
-          Acharya Bangalore Business School.
-        </span>{" "}
-        My journey in software development has equipped me with a solid
-        foundation in full-stack development. My core stack is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript, MySQL and Prisma. I am always
-        looking to learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        I am a <span className="font-medium">Software Engineer </span>at{" "}
+        <span className="font-medium">Volkswagen. </span>Working in the IT Infra
+        department, I am responsible for the configuration of PKI cards and
+        handle UAM tickets. My experience at Volkswagen has equipped me with the
+        ability to collaborate effectively with cross-functional teams to
+        deliver solutions. With a strong foundation in tech, I am now aspiring
+        to transition into a{" "}
+        <span className="font-medium">Product Management </span>
+        role, where I can leverage my technical expertise and strategic thinking
+        to bring impactful products to market.
       </p>
     </motion.section>
   );

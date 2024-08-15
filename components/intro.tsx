@@ -52,10 +52,9 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello👋 I'm Ujjawal,</span> a{" "}
-        <span className="font-bold">full-Stack developer |</span>{" "}
-        <span className="font-bold">MERN-Stack developer.</span> I enjoy
-        building <span className="italic">web applications</span>. My focus is{" "}
-        React & Next.js.
+        <span className="font-bold">Software Engineer.</span> With a strong
+        foundation in tech, I am now aspiring to transition into{" "}
+        <span className="italic">Product Management</span>.
       </motion.h1>
 
       <motion.div
@@ -80,7 +79,7 @@ export default function Intro() {
 
           <a
             className="group bg-gray-900 text-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 hover:bg-gray-950 transition"
-            href="/resume.pdf"
+            href="/UjjawalK_resume.pdf"
             download
           >
             Download Resume{" "}
