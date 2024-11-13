@@ -32,18 +32,18 @@ export const projectsData = [
     title: "Zepto: Case Study",
     description:
       "Case study on Zepto giving an overview of the app, comparing it with its competitors, stating the problems, metrics & solutions.",
-    tags: ["Product Management", "Metrics", "UX", "Product Analysis", "Market Research"],
+    tags: ["Product Management", "Metrics", "User Persona", "Product Analysis", "UX", "Market Research"],
     imageUrl: Zepto,
-    link: "https://drive.google.com/file/d/1Fr9U3USU8T-kasEMunkILPzCbKbBCqdp/view?usp=drive_link"
+    link: "https://drive.google.com/file/d/1J5gQioElcxsVs6uVRba43HodsSgUwWQo/view?usp=drive_link"
   },
   {
     title: "Meesho: Case Study",
     description:
       "Case study on Meesho giving an overview of the app, comparing it with its competitors, stating the problems, metrics & solutions.",
     tags: ["Product Analysis",  "Metrics", "Product Management", "UX", 
-      "Market Research"],
+      "Market", "User Persona"],
     imageUrl: Meesho,
-    link: "https://drive.google.com/file/d/1d6YPdPTtJSDuVbctSeusyUy6sAJbWZIl/view?usp=drive_link"
+    link: "https://drive.google.com/file/d/1e-JIEban4vyYQuUlO3xp7TkFb5oHY7s8/view?usp=drive_link"
   },
   {
     title: "Fitness Planner",
@@ -80,9 +80,9 @@ export const skillsData = [
   "Problem Solving",
   "Teamwork",
   "User Experience",
-  "Product Strategy",
   "Product Vision",
-  "Product Road Mapping",
+  "Market Research",
+  "User Persona",
   "Leadership",
   "Front-end Development",
   "Back-end Development",
